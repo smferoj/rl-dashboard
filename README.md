@@ -6,3 +6,7 @@ register page is created with usestate
 // set data to localStorage
 // nevigate to add item 
 
+//=========protected routes=========
+
+App.js=>Header.js
+
